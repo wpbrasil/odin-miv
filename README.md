@@ -29,6 +29,8 @@ odin-miv/
 │   └── svgz/
 └── odin-social/
     └── facebook/
+    └── googleplus/
+    └── twitter/
 ```
 
 ## Copyright e Licença ##
