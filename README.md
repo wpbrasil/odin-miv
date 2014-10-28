@@ -1,6 +1,6 @@
 # Odin MIV #
 
-![Odin Framework](http://wpod.in/wp-content/uploads/2013/12/odin-logo.png)
+![Odin Framework](https://i.imgur.com/DdeMgUx.png)
 
 * [Website](http://wpod.in/)
 * [GitHub Odin Framework](https://github.com/wpbrasil/odin)
@@ -27,6 +27,7 @@ odin-miv/
 │   ├── png
 │   ├── svg/
 │   └── svgz/
+├── odin-site-layout/
 └── odin-social/
     └── facebook/
     └── googleplus/
