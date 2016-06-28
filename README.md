@@ -1,6 +1,6 @@
 # Odin MIV #
 
-![Odin Framework](https://i.imgur.com/DdeMgUx.png)
+![Odin Framework](https://cloud.githubusercontent.com/assets/1139893/16430664/17325868-3d53-11e6-9c16-b095082c9e6a.png)
 
 * [Website](http://wpod.in/)
 * [GitHub Odin Framework](https://github.com/wpbrasil/odin)
@@ -36,4 +36,4 @@ odin-miv/
 
 ## Copyright e Licença ##
 
-Copyright 2013 - 2014 - Grupo WordPress Brasil.
+Copyright 2013 - 2016 - Grupo WordPress Brasil.
